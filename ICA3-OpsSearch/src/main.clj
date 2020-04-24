@@ -1,12 +1,6 @@
 (ns main)
 (require '[ops-search :as search])
 
-; ================ PEER POINTS ==================
-; Alicia-Jade Fisher : 3.25
-; Manisha Lakshmipathula : 3.25
-; Teja Jalagari : 3.25
-; Rohith Manyam : 3.25
-
 ; ================ WORLD DEFINITIONS ================
 ; World definition for a scenario with one platform and one object, which do not change throughout execution
 (def world1
